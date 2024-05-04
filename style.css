@@ -1,0 +1,112 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 249, 231);
+    font-size: 20px;
+}
+header{
+    background-color: rgb(255, 192, 203);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+
+.menu1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 700px;
+    
+    
+}
+.a1{
+text-align: center;
+display: flex;
+justify-content: space-around;
+}
+.info{
+    margin-top: 78px;
+    background-color: rgb(255, 255, 255);
+}
+.hhh{
+    text-align: center;
+    margin: 100px;
+    background-color: rgb(255, 192, 203);
+    padding: 5px;
+}
+.art1{
+    background-color: white;
+    
+width: 250px;
+height: 300px;
+margin-bottom: 40px;
+
+
+    }
+header a{
+    color: rgb(250, 84, 195);
+}
+
+main img{
+    position: relative;
+    left: 20%;
+}
+.art1:hover{
+transform: scale(1.2);
+}
+header a{
+    border: white 5px dotted;
+    margin: 50px;
+    padding: 3px;
+    text-decoration: none;
+
+}
+.sale1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 700px;
+    
+    
+}
+
+
+
+.hll{
+    text-align: center;
+    color: red;
+    background-color: white;
+    margin: 100px;
+    margin-top: 200px;
+}
+
+
+
+.ptext{
+    color: red;
+}
+
+
+ 
+
+footer{
+    background-color: rgb(255, 192, 203);
+}
+p{
+    text-align: center;
+}
+footer h2{
+    text-align: center;
+    margin-top: 200px;
+}
+footer img{
+    width: 60px;
+    height: 60px;
+}
+.pclass:hover{
+    color: rgb(250, 84, 195);
+}
+.info:hover{
+transform: scale(1.1);
+}
